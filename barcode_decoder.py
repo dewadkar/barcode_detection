@@ -1,5 +1,5 @@
 # -------------------------------------------- 
-# Logixal DES - AI Powered Enterprise Search
+# DD - AI Powered Enterprise Search
 # __author__ : Dnyaneshwar Dewadkar 
 #            : 12:11 PM 27/01/21
 #            : barcode_decoder.py 
